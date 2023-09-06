@@ -1,0 +1,3 @@
+
+  print("Hello Wordl")
+    #fájl
